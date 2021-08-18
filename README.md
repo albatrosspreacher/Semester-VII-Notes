@@ -1,11 +1,7 @@
 # Semester-VI-Notes
-A repository containing notes of all ICT (VI Semester) subjects, MIT Manipal
+A repository containing notes of all ICT (VII Semester) subjects, MIT Manipal
 
-- [DWDM (Data Warehousing and Data Mining)](https://www.notion.so/smolpkg/DWDM-b948e3882ed44bd3b5db1723797196d2)
-- DS (Distributed Systems)
-- EEFM
-- PE-1+2: [Coursera: Digital Marketing Specialisation](https://www.notion.so/smolpkg/Coursera-Digital-Marketing-7f66d0f2e4fd4546a75c00710be1618f)
-- OE-3: [Publishing Science](https://www.notion.so/smolpkg/Publishing-Science-a76cca43347d49daa2bf44ba8b9ca79c)
-- [ITT Lab](https://github.com/nandiniproothi/itt-lab)
-- [AT Lab](https://github.com/nandiniproothi/at-lab)
-- DWDM Lab
+- [Cloud Computing](https://smolpkg.notion.site/Cloud-Computing-fe7d9456a918442b84ee4aa916e587ab)
+- [Natural Computing](https://smolpkg.notion.site/Natural-Computing-5951867fbc4b4f7f9b8e2c188a2ce7b4)
+- [Human Computer Interaction](https://smolpkg.notion.site/Human-Computer-Interaction-954bd7bff2fe4258a0d8ed823da6a99b)
+- [Class Recordings](https://smolpkg.notion.site/Class-Recordings-25bd24711970434a889df4f127468bc4)
