@@ -1,5 +1,5 @@
 # Semester-VI-Notes
-A repository containing notes of all ICT (VII Semester) subjects, MIT Manipal
+A repository containing notes of ICT (VII Semester) subjects, MIT Manipal
 
 - [Cloud Computing](https://smolpkg.notion.site/Cloud-Computing-fe7d9456a918442b84ee4aa916e587ab)
 - [Natural Computing](https://smolpkg.notion.site/Natural-Computing-5951867fbc4b4f7f9b8e2c188a2ce7b4)
